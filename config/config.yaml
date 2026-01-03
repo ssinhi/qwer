@@ -1,6 +1,6 @@
 app:
   version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
-  show_version_update: true # 控制显示版本更新提示，如果 false，则不接受新版本提示
+  show_version_update: false # 控制显示版本更新提示，如果 false，则不接受新版本提示
   # 时区配置（影响所有时间显示、推送窗口判断、数据存储）
   # 常用时区：
   #   - Asia/Shanghai (北京时间 UTC+8)
